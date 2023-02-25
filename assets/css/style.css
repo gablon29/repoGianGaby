@@ -1,0 +1,27 @@
+img{
+    width: 60px;
+    color: rgb(221, 210, 231);
+}
+
+#logo{
+    width: 107px;
+    height: 87px;
+    }
+.navbar-brand{
+    height: 100px;
+ }
+
+#instagram, #linkedin, #github{
+    padding: 5px;
+}
+
+.logo{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+body{
+    background-image: url(/repoGianGaby/assets/css/imagenes/puntos.jpg);
+}
+h1{
+    color: rgb(238, 231, 231);
+}
